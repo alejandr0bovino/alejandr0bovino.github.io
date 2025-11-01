@@ -2,7 +2,7 @@
 
 Front-end Developer Portfolio — Montevideo, Uruguay
 
-[![alejandro.uy frontend developer](https://res.cloudinary.com/dq2xnhuxf/image/upload/v1761985184/Screenshot_2025-11-01_at_5.19.26_AM_cbqugd.png)](https://alejandro.uy/)
+[![alejandro.uy frontend developer](https://res.cloudinary.com/dq2xnhuxf/image/upload/v1761988950/Screenshot_exs3v9.jpg)](https://alejandro.uy/)
 
 ## 👋 Hi
 
