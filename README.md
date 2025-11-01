@@ -2,6 +2,8 @@
 
 Front-end Developer Portfolio — Montevideo, Uruguay
 
+[![alejandro.uy frontend developer](https://res.cloudinary.com/dq2xnhuxf/image/upload/v1761985184/Screenshot_2025-11-01_at_5.19.26_AM_cbqugd.png)](https://alejandro.uy/)
+
 ## 👋 Hi
 
 I build user-centric web interfaces with a strong emphasis on performance, clean code and great UX.  
@@ -25,7 +27,7 @@ Rock ’n’ roll lover 🎸.
 
 ## 📫 Reach me
 
-- Website: [alejandro.uy](https://alejandro.uy)
+- Website: [alejandro.uy](https://alejandro.uy/)
 - GitHub: [alejandr0bovino](https://github.com/alejandr0bovino)
 - LinkedIn: [alejandrobovino](https://www.linkedin.com/in/alejandrobovino/)
 - X: [alejandrobovino](https://x.com/alejandrobovino)
